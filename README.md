@@ -8,4 +8,4 @@ Tracks monthly order quantity and total sales across regions and order statuses.
 - 📆 Seasonal trend analysis.
 
 ### 📷 Screenshot:
-![Orders by Region](Screenshot 2025-05-07 at 15.49.36.png)
+![Orders by Region](./orders-trends.png)
